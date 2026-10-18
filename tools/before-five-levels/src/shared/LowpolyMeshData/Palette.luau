@@ -1,0 +1,2 @@
+-- Generated palette from the supplied Blender pack.
+return {"#D9443A","#3A7BD9","#F2B83A","#2B2B30","#C8CCD2","#2F4C6B","#FFF2B0","#B5161B","#45A84F","#2F8A3C","#2E9457","#7A4E2D","#C48A55","#BCC1C7","#9AA0A7","#6CC05A","#4A4D55","#BDB8AD","#9C978C","#F2F2EE","#F2C531","#3C4048","#FFD36B","#F27A21","#F4F4F4","#C9302C","#D23B2F","#1E1F24","#A9B0B8","#55585F","#F5D04A","#8F5E36"}
